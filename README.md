@@ -17,6 +17,8 @@ We also provide a Free VPN service, also a special SBMM VPN for Call of Duty tit
 
 With our SBMM Guard only SBMM Data will be rerouted, you play with your real connection but changing the SBMM location, you can see under Network information in your Game Settings.
 
+With SBMM Guard you can also change your NAT Type.
+
 Geodune is also included in VreePN SBMM Guard, you dont need run both at same time.
 
 Download: https://www.vreepn.net/
