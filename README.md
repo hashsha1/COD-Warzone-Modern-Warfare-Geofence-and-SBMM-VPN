@@ -1,6 +1,6 @@
 ![geo](https://i.ibb.co/b5L10JB/7f2e89c45b3e422c446193df6385f393-fit.png)
 
-Geodune is a location Service to connect only to connected Server in the region you choose.
+Geodune is a FREE location Service to connect only to connected Server in the region you choose.
 Geodune works on all Modern Warfare titles and also all Warzone Modes.
 
 With Geodune you are able to lower your ingame Ping while playing on your local region Server.
