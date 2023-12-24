@@ -10,7 +10,7 @@ Geodune will find all the neccessary Gamefiles by itself.
 
 
 
-We also provide a Free VPN service, also a special SBMM VPN for Call of Duty titles.
+Check out our Call of Duty VPN SBMMGuard. 
 
 ![vpn](https://i.ibb.co/1rh2T7L/Screenshot-2023-12-02-082204.png)
 
@@ -21,4 +21,4 @@ With SBMM Guard you can also change your NAT Type.
 
 Geodune is also included in VreePN SBMM Guard, you dont need run both at same time.
 
-Download: https://www.vreepn.net/
+Download: https://www.sbmmguard.com/
