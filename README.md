@@ -12,7 +12,10 @@ Geodune will find all the neccessary Gamefiles by itself.
 
 Check out our Call of Duty VPN SBMMGuard. 
 
-![vpn](https://i.ibb.co/1rh2T7L/Screenshot-2023-12-02-082204.png)
+![vpn](https://i.ibb.co/s9GbrR6/45455.png)
+
+![vpn](https://i.ibb.co/5RjhBkd/settings.png)
+
 
 
 With our SBMM Guard only SBMM Data will be rerouted, you play with your real connection but changing the SBMM location, you can see under Network information in your Game Settings.
